@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: mythili
+pool: mythili
 
 steps:
 - task: Maven@3
